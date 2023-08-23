@@ -43,7 +43,7 @@ Raw Data:
 
 Notebook for Analysis:
 - Project I - Airbnb Boston & Seattle Data Analysis.ipynb
-
+- Project I - Airbnb Boston & Seattle Data Analysis.html
 
 ## Results<a name="results"></a>
 The main findings of the code can be found in the post available on [Medium Platform]().
