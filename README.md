@@ -49,7 +49,7 @@ Notebook for Analysis:
 - Project I - Airbnb Boston & Seattle Data Analysis.html
 
 ## Results<a name="results"></a>
-The main findings of the code can be found in the post available on [Medium Platform]().
+The main findings of the code can be found in the post available on [Medium Platform](https://medium.com/@nanlii/hows-airbnb-doing-in-boston-and-seattle-33dab6e875df).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 This project is part of the Udacity Data Scientist Nano Degree Program, and I'm using Airbnb open data. 
