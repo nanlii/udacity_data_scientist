@@ -1,4 +1,7 @@
+# udacity-data-scientist
+[**Udacity Data Scientist NanoDegree Program**](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
+`Project 1- Introduction to Data Science`
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -9,7 +12,7 @@
 6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Introduction <a name="introduction"></a>
-This is the first project of the [**Udacity Data Scientist Nano Degree Program**](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
+This is the first project of the [**Udacity Data Scientist NanoDegree Program**](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
 
 For this project, I will follow the CRISP-DM process to create a blog post and Github repository to begin building a data science portfolio of my own. 
 
@@ -46,7 +49,7 @@ Notebook for Analysis:
 - Project I - Airbnb Boston & Seattle Data Analysis.html
 
 ## Results<a name="results"></a>
-The main findings of the code can be found in the post available on [Medium Platform]().
+The main findings of the code can be found in the post available on [Medium Platform](https://medium.com/@nanlii/hows-airbnb-doing-in-boston-and-seattle-33dab6e875df).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 This project is part of the Udacity Data Scientist Nano Degree Program, and I'm using Airbnb open data. 
