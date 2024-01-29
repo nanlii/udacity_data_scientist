@@ -1,4 +1,4 @@
-# udacity-data-scientist
+# udacity_data_scientist
 [**Udacity Data Scientist NanoDegree Program**](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
 `Project 1- Introduction to Data Science`
